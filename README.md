@@ -9,6 +9,6 @@ When a user type a message containing negative words such as 'sad','depressed','
 A user can also help update or review quotes using special commands.
 
 To avoid server shutdown due to inactive, I used Flask server that connects to Repl.it to auto-refresh the server every 5 minutes: https://encourage-bot--vanhuycx.repl.co/
-Thank you,
-Van
+
+Thank you.
 
