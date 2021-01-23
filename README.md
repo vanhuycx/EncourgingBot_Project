@@ -1,4 +1,4 @@
-# DiscordEncourgingBot_Project
+# EncourgingBot_Project
 Hi,
 
 In this project, I used Python to program an autonomous bot that runs on the Discord server to reply to negative messages in the chat using encouraging quotes and comments.
